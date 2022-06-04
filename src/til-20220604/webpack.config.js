@@ -1,7 +1,6 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  mode: "development",  // or production
   entry: "./src/main.tsx",
   output: {
     path: `${__dirname}/build`,

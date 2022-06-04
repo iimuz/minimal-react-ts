@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "minimal webpack + typescript + react",
   "scripts": {
-    "build": "webpack",
+    "build": "webpack --mode=development",
+    "production": "webpack --mode=production",
     "start": "webpack-dev-server"
   },
   "author": "iimuz",
