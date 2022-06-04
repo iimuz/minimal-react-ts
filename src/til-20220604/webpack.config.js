@@ -4,7 +4,7 @@ module.exports = {
   mode: "development",  // or production
   entry: "./src/main.tsx",
   output: {
-    path: `${__dirname}/dist`,
+    path: `${__dirname}/build`,
     filename: "main.js",
   },
   module: {
