@@ -7,8 +7,7 @@
     "plugin:import/warnings",
     "plugin:import/typescript",
     "prettier",
-    "react-app",
-    "react-app/jest"
+    "react-app"
   ],
   "plugins": ["@typescript-eslint", "import", "react"],
   "parser": "@typescript-eslint/parser",
