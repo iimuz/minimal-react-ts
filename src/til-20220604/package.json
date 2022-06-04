@@ -4,7 +4,7 @@
   "description": "minimal webpack + typescript + react",
   "scripts": {
     "build": "webpack",
-    "watch": "webpack -w"
+    "start": "webpack-dev-server"
   },
   "author": "iimuz",
   "license": "MIT",
